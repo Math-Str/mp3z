@@ -1,0 +1,2 @@
+#comand used in pyinstaller
+pyinstaller --onedir --clean --windowed mp3z.py
