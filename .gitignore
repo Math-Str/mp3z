@@ -1,0 +1,16 @@
+# PyInstaller
+/build/
+/dist/
+
+# Python
+_pycache_/
+*.py[cod]
+
+# Virtual enviroments
+venv/
+ .venv/
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
